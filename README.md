@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @vedantdxt Vedant Dixit, pursuing Master of Computer Application from K. K. Wagh Institute of Engineering Education & Research, Nashik.
-- ⚓ I currenty reside in Nashik City of Maharashtra State of India.
-- 👀 I’m interested in Software Development, UI Design, Database Mangement Systems & Web Design
-- 🌱 I’m currently learning C++, Java & Python
-
-<!---
-vedantdxt/vedantdxt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Vedant Dixit, a student in Master of Computer Application from K. K. Wagh Institute of Engineering Education & Research, Nashik.
+- ⚓ I currenty reside in the City of Nashik of the State of Mahrashtra, India.
+- 👀 I’m interested in Software Development, Database Mangement Systems, Web Design & Development, UI/UX.
+- 🌱 Techincal skills include Basics of C, C++, Java, SQL, PL/SQL, NoSQL, HTML & CSS.
