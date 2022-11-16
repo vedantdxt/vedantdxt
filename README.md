@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Vedant Dixit, pursuing Master of Computer Application from K. K. Wagh Institute of Engineering Education & Research, Nashik.
-- ⚓ I currenty reside in the City of Nashik of the State of Mahrashtra in India.
-- 👀 I’m interested in Software Development, Database Mangement Systems, Web Design & Development, UI/UX.
+- ⚓ I currenty reside in Nashik, Maharashtra, India.
+- 👀 I’m interested in Software Development, Database Mangement Systems, Web Design & Development.
 - 🌱 Techincal skills include Basics of C, C++, Java, Python, Oracle SQL, PL/SQL, MongoDB NoSQL, Visual Basic, VB.NET, HTML, CSS & JavaScript.
